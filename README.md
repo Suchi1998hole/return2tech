@@ -16,7 +16,7 @@ Despite growing conversations around diversity and inclusion in tech, women—es
 
 ---
 
-## Our Solution
+## Solution
 
 Return2Tech addresses this gap by offering:
 
@@ -49,17 +49,9 @@ Return2Tech addresses this gap by offering:
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript
+- HTML, CSS, JS
 - Firebase (Firestore, Hosting)
 - Google Fonts (Poppins)
 - Responsive Flexbox Layouts
 
 ---
-
-## Collaborators
-
-- Mahima Lolla
-- Khushee Vakil
-- Suchitra Hole
-- Bhakti Pasnani
-
